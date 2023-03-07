@@ -1,7 +1,5 @@
 # Testes em React II - Exercício
 
-<strong>A partir dessa semana os exercícios voltam a ser independentes. Não se preocupe em centralizá-los em um mesmo repo.</strong>
-<br><br>
 Utilize esse template para criar um repo pessoal na sua conta e trabalhe nele.
 
 ## Enunciado
@@ -21,7 +19,4 @@ Agora crie testes para garantir a renderização dos elementos do Modal (não pr
 
 Finalize criando o teste de interação com user: ao clicar no botão de fechar, é disparada a função que fecha o modal.
 
-### Terminou e sobrou tempo?
 
-Analise como você faria para lidar com o mock de uma requisição axios. O componente Card é um excelente caso de uso. <br>
-Não se estresse caso falhe aqui, pois veremos mocks mais avançados na próxima aula!
