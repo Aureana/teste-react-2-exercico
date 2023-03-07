@@ -22,7 +22,6 @@ const activeModalMock = {
 
 const closeModalMock = jest.fn()
 
-
 describe("modals", () => {
 
     test("test renderização do modal", () => {
