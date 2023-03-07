@@ -1,7 +1,5 @@
 # Testes em React II - Exercício
 
-Utilize esse template para criar um repo pessoal na sua conta e trabalhe nele.
-
 ## Enunciado
 
 Temos nesse repo uma Pokedex que consome a api POKEAPI. Sua tarefa é testar as funcionalidades o suficiente para ter confiança de que as renderizações e funcionalidades de interação estão implementadas corretamente. <br>
